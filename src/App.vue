@@ -240,7 +240,7 @@ body {
 }
 #firstview {
   height: 100%;
-  background: url(../src/components/eyecatch.jpg) no-repeat;
+  background: url(./components/eyecatch.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   position: relative;
